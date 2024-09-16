@@ -7,3 +7,5 @@ if age >= 18:
     print("Ready to vote")
 else:
     print("Not eligible to vote")
+
+print('From github, I did changes')
